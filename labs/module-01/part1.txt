@@ -1,0 +1,29 @@
+Problem: You work for a local music lesson company called Strike a Chord that provides music lessons for piano, guitar, and violin. The company needs a web presence and has hired you to create their website. You have already created the website plan, wireframe, and site map for the proposed website. You will create a webpage that summarizes the website plan for the company.
+
+Step 1: Open your text editor and enter all required HTML elements to create a basic webpage, including the DOCTYPE, html, head, title, meta, and body elements. Use the File Save As feature to save the webpage in the chapter01\lab1 folder with the name plan.html to create the webpage
+
+Step 2: Add the lang attribute to the starting html tag and specify the language as English as follows: <html lang="en"> 
+
+Step 3: Add the text, "Strike a Chord", to the title element as follows: <title>Strike a Chord</title>
+
+Step 4: Add the charset attribute to the meta tag and specify the character set as utf-8 as follows: <meta charset="utf-8">
+
+Step 5: In the body element, nest a paragraph element that includes the following text: "Proposed Website for Strike a Chord"
+
+Step 6: Below the first paragraph element, add another paragraph element that includes the text Presented by: followed by your name. 
+
+Step 7: Below the second paragraph, add a thematic break, <hr> , followed by two blank lines. 
+
+Step 8: Below the thematic break, add the following six paragraph elements: 
+<p>Mission: To provide world-class instruction wiht each music lesson.</p>
+<p>Target audience: People ages 3 to 65</p>
+<p>Linear website structure, pages, to include: Home, Lessons, Instructors, Rentals, Contact</p>
+<p>Graphics: Images that showcase lesson opportunitites</p>
+<p>Colors: Blue, black, white</p>
+<p>Accessibility: Use text alternatives where necessary</p>
+
+Step 9: Indent all nested elements.
+
+Step 10: Add blank lines between all paragraph elements located below the thematic break.
+
+Step 11: Save your changes and review the plan.html page within a browser.

@@ -1,0 +1,35 @@
+Problem: You volunteer at a local wildlife rescue, a nonprofit organization called Wild Rescues. The organization rescues all kinds of wild animals, rehabilitates them, and then releases them back into the wild. Wild Rescues needs a website to help raise awareness about their mission. The director of Wild Rescues has asked you to build a website for the organization. Create a webpage that outlines the various pages that will be created for the website.
+
+Step 1: Open your text editor and enter all required HTML elements to create a basic webpage, including the DOCTYPE, html, head, title, meta, and body elements. Use the File Save As feature to save the webpage in the chapter01\lab2 folder with the name rescuepages.html to create the webpage. 
+
+Step 2: Add the lang attribute to the starting html tag and specify the language as English.
+
+Step 3: Add the following text to the title element: "Wild Rescues"
+
+Step 4: Add the charset attribute to the meta tag and specify the character set as utf-8.
+
+Step 5: In the body element, nest a paragraph element that includes the following text: "Wild Rescues Website Outline"
+
+Step 6: Below the first paragraph element, add another paragraph element that includes the text, Completed by: followed by your name. 
+
+Step 7: Below the second paragraph, add two blank lines.
+
+Step 8: Add the following six paragraph elements: 
+
+1) Home Page: The home page will include information about the purpose of Wild Resuce. It will also include the mission statement, which is to rescue, rehabilitate, and release wildlife back into their natural environment.
+
+2) About Us Page: The about us page will provide information about the types of animals we rescue and how we help rehabilitate them.
+
+3) Paternship Page: The partnership page will provide information about volunteer opportunites, ways to donate, and sponsorship opportunities.
+
+4) Gallery Page: The gallery page will include several photos of our most memorable wildlife rescue friends.
+
+5) FAQs Page: The FAQs page will provide vistors with many frequently asked questions and answers.
+
+6) Contact Us Page: The contact us page will include the organization's contact information and provide a form to schedule a visit.
+
+Step 9: Indent all nested elements.
+
+Step 10: Add blank lines between all paragraph elements.
+
+Step 11: Save your changes and review the rescuepages.html page within a browser.
